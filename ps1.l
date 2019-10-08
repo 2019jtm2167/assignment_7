@@ -53,7 +53,7 @@ and writes it to output file */
 %% 
 
 
-int yywrap() 
+int yywrap() // hey us
 { 
 	return 1; 
 } 
